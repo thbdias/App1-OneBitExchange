@@ -1,24 +1,20 @@
-# README
+# onebitexchange
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Planejamento
+### Definição da ideia
+  - Realiza a conversão de uma quantidade X de uma moeda (exp BRL) em uma quantidade Y correspondente de outra (exp EUR).
+### Stack do Projeto
+  - Desenvolvimento
+  - Docker
+  - Docker-compose
+  - Ruby + Ruby On Rails
+      - rest-client
+      - webmock
+  - Yarn
+  - PostgreSql
+  - Deploy
+      - Codeship
+      - Heroku
+  - Mockup
+    - https://onebitcode.com/wp-content/uploads/2018/06/mockup-onebitexchange.png
